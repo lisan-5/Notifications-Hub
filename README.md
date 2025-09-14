@@ -55,7 +55,7 @@ SMTP_USER=your-email@gmail.com
 SMTP_PASS=your-app-password
 SMTP_FROM=your-email@gmail.com
 
-# SMS (Twilio)
+# SMS (Twilio or AfroMessage)
 TWILIO_ACCOUNT_SID=your-account-sid
 TWILIO_AUTH_TOKEN=your-auth-token
 TWILIO_PHONE_NUMBER=+1234567890
