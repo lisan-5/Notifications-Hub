@@ -1,6 +1,6 @@
 # Notifications Hub
 
-A comprehensive, multi-channel notification system built with Next.js, Express, PostgreSQL, and Redis. Send notifications across email, SMS, push notifications, Slack, and Telegram with advanced queue management, retry logic, and real-time analytics.
+A full-stack notification system built with Next.js, Node.js, Express, PostgreSQL, and Redis, delivering email, SMS, push, Slack, and Telegram alerts with advanced queue management, retry logic, and real-time analytics.
 
 ## Features
 
